@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhror</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahror1997&label=Profile%20views&color=0e75b6&style=flat" alt="ahror1997" /> </p>
 
